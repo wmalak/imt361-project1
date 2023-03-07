@@ -90,3 +90,34 @@ footer {
   color: #710C04;
 }
 /* Resume Page styling */
+#resume_body {
+  background-color: #fff;
+  margin-left:auto;
+  margin-right:auto;
+  width: 850px;
+  height: 1500px;
+}
+.title {
+  text-align: center;
+  padding-top: 5%;
+}
+.contact_info {
+  float: left;
+  padding-left: 7.5%;
+}
+.skills {
+  padding-top:5%;
+}
+.skills ul {
+  display: table;
+  margin: 0 auto;
+}
+#header {
+  border-top: 5px solid black;
+}
+#footer {
+  border-top: solid black;
+}
+.projects, .experience, .education {
+  padding-left:15px;
+}
