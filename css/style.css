@@ -159,3 +159,17 @@ footer {
   font-style:italic;
   color: #710C04;
 }
+#vg_section {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.video {
+  float: left;
+}
+.vid_container {
+  padding-left: 20%;
+}
+#dnd_title {
+  padding-top:18%;
+}
