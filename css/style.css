@@ -96,6 +96,7 @@ footer {
   margin-right:auto;
   width: 850px;
   height: 1700px;
+  margin-bottom: 1em;
 }
 .title {
   text-align: center;
@@ -130,4 +131,14 @@ footer {
 }
 .d {
   padding-bottom:8%;
+}
+/* me.html styling */
+#warning {
+  color:yellow;
+}
+#audio_section {
+  text-align: center;
+}
+#audio_clip {
+  background-color: yellow;
 }
