@@ -184,3 +184,8 @@ footer {
 #handbook {
   height:350px;
 }
+#p_info {
+  text-align: center;
+  margin-left:30%;
+  margin-right:30%;
+}
