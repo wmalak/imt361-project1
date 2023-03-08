@@ -77,6 +77,10 @@ footer {
   text-align:center;
   font-family: 'Kanit', sans-serif;
 }
+#col_1, #col_2 {
+  margin-left: 10%;
+  margin-right: 10%;
+}
 #home_text {
   padding: 0% 20% 0% 20%;
 }
