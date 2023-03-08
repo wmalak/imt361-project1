@@ -173,3 +173,14 @@ footer {
 #dnd_title {
   padding-top:18%;
 }
+#dnd_section {
+  text-align: center;
+  margin-left:15%;
+  margin-right:15%;
+}
+.dnd_img {
+  padding-left:10%;
+}
+#handbook {
+  height:350px;
+}
