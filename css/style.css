@@ -193,3 +193,9 @@ footer {
   margin-left:30%;
   margin-right:30%;
 }
+/* map.html styling*/
+#map {
+  margin: 0 auto;
+  height: 800px;
+  width: 80%;
+}
