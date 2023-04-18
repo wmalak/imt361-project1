@@ -218,3 +218,16 @@ footer {
   padding: 2px;
   }
 }
+@media screen and (max-width: 1000) {
+  img {
+    width: 60%;
+	padding: 8px;
+  }
+  p {
+  font-size: 0.5cm;
+  line-height: 0.6cm;
+  text-align: center;
+  margin: 4px;
+  padding: 4px;
+  }
+}
