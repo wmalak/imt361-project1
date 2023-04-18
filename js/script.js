@@ -29,3 +29,9 @@ function initMap() {
     ggaInfo.open(map, gga);
   })
 }
+
+/*picture slider script*/
+$(document).ready(function(){
+    $('.slider').bxSlider()
+      slideWidth:400;
+  });
