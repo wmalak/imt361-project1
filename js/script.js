@@ -1,12 +1,4 @@
 var map;
-
-/*picture slider script*/
-$(document).ready(function(){
-    $('.slider').bxSlider({
-      slideWidth:400
-    });
-});
-
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
     center: { lat: 41.81672, lng: -87.85159 },
@@ -36,3 +28,10 @@ function initMap() {
     ggaInfo.open(map, gga);
   })
 }
+
+/*picture slider script*/
+$(document).ready(function(){
+    $('.slider').bxSlider({
+      slideWidth:400
+    });
+});
