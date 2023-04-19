@@ -32,6 +32,7 @@ function initMap() {
 
 /*picture slider script*/
 $(document).ready(function(){
-    $('.slider').bxSlider()
-      slideWidth:400;
-  });
+    $('.slider').bxSlider({
+      slideWidth:400
+    });
+});
