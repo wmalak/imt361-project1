@@ -5,7 +5,6 @@ $(document).ready(function(){
     $('.slider').bxSlider({
       slideWidth:400
     });
-  $('.parent-element').css('padding-left', '20%');
 });
 
 function initMap() {
