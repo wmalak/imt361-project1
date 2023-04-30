@@ -227,7 +227,7 @@ footer {
     height: 100%;
   }
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1000px) and (min-width: 601px) {
   img {
     width: 60%;
 	padding: 8px;
