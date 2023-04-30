@@ -217,13 +217,13 @@ footer {
     margin: 2px;
     padding: 2px;
   }
-  .resume_body {
+  #resume_body {
     height: 1900px;
   }
   .contact_info {
     padding-left: 5%;
   }
-  .book_image {
+  #book_image {
     height: 100%;
   }
 }
@@ -242,7 +242,7 @@ footer {
   .contact_info {
     padding-left: 5%;
   }
-  .dnd_title {
+  #dnd_title {
     padding-top: 20%;
   }
   .vid_container {
