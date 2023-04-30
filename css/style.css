@@ -211,19 +211,19 @@ footer {
 	padding: 6px;
   }
   p {
-  font-size: 0.4cm;
-  line-height: 0.5cm;
-  text-align: center;
-  margin: 2px;
-  padding: 2px;
+    font-size: 0.4cm;
+    line-height: 0.5cm;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
   }
-  #resume_body {
+  .resume_body {
     height: 1900px;
   }
   .contact_info {
     padding-left: 5%;
   }
-  #book_image {
+  .book_image {
     height: 100%;
   }
 }
@@ -233,16 +233,16 @@ footer {
 	padding: 8px;
   }
   p {
-  font-size: 0.5cm;
-  line-height: 0.6cm;
-  text-align: center;
-  margin: 4px;
-  padding: 4px;
+    font-size: 0.5cm;
+    line-height: 0.6cm;
+    text-align: center;
+    margin: 4px;
+    padding: 4px;
   }
   .contact_info {
     padding-left: 5%;
   }
-  #dnd_title {
+  .dnd_title {
     padding-top: 20%;
   }
   .vid_container {
