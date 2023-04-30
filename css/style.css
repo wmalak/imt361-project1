@@ -217,6 +217,15 @@ footer {
   margin: 2px;
   padding: 2px;
   }
+  #resume_body {
+    height: 1900px;
+  }
+  .contact_info {
+    padding-left: 5%;
+  }
+  #book_image {
+    height: 100%;
+  }
 }
 @media screen and (max-width: 1000) {
   img {
@@ -229,5 +238,14 @@ footer {
   text-align: center;
   margin: 4px;
   padding: 4px;
+  }
+  .contact_info {
+    padding-left: 5%;
+  }
+  #dnd_title {
+    padding-top: 20%;
+  }
+  .vid_container {
+    padding-left: 15%;
   }
 }
